@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+
+.myhover {
+  background-color: #0dcaf0;
+}
+.myhover:hover {
+  color: gray;
+  font-size: 18px;
+  cursor: pointer;
+}
